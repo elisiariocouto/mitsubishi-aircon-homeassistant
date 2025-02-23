@@ -1,0 +1,6 @@
+substitutions:
+  name: ac-office
+  friendly_name: Air Conditioner Office
+
+packages:
+  common: !include common.yaml

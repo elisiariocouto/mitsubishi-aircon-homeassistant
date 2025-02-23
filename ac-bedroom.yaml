@@ -1,0 +1,6 @@
+substitutions:
+  name: ac-bedroom
+  friendly_name: Air Conditioner Bedroom
+
+packages:
+  common: !include common.yaml

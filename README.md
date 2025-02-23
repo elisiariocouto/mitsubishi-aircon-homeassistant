@@ -6,7 +6,7 @@ Used with M5Stack AtomS3 Lite.
 
 ## Usage
 
-Install [ESPHome](https://esphome.io), create a `secrets.yaml` based on the example, connect your ESP MCU and run:
+Install [ESPHome](https://esphome.io), create a `secrets.yaml` and a configuration file based on the examples, connect your ESP MCU and run:
 
 ```console
 esphome upload ac-bedroom.yaml
